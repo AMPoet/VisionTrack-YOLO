@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+dlib>=19.24.0
+ultralytics>=8.0.0
+yt-dlp>=2023.7.6
+numpy>=1.22.0
+matplotlib>=3.5.0
+ipython>=8.0.0
