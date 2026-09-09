@@ -1,4 +1,4 @@
-# Video Processor: Stream Object Detection & Tracking Pipeline
+# VisionTrack-YOLO: Stream Object Detection & Tracking Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)](https://opencv.org/)
